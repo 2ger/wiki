@@ -49,6 +49,11 @@
     - [pdo_delete](?file=003-后端代码/001-微擎/012-pdo_delete "pdo_delete")
     - [pdo_query](?file=003-后端代码/001-微擎/013-pdo_query "pdo_query")
     - [pdo_run](?file=003-后端代码/001-微擎/014-pdo_run "pdo_run")
+    - [pdo_fieldexists](?file=003-后端代码/001-微擎/015-pdo_fieldexists "pdo_fieldexists")
+    - [pdo_indexexists](?file=003-后端代码/001-微擎/016-pdo_indexexists "pdo_indexexists")
+    - [pdo_tableexists](?file=003-后端代码/001-微擎/017-pdo_tableexists "pdo_tableexists")
+    - [pdo_debug](?file=003-后端代码/001-微擎/018-pdo_debug "pdo_debug")
+    - [会员积分操作](?file=003-后端代码/001-微擎/019-会员积分操作 "会员积分操作")
 
 ##### 其它
 - **git**
