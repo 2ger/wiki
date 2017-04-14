@@ -3,8 +3,3 @@ mixed  PDOStatement::fetchObject  ([ string $class_name  = "stdClass"  [, array 
 $class_name 结果类的名称
 $ctor_args 构造函数的参数
 返回一个属性名对应列表的类的实例
-##
-
-| H2222   | 222     |
-| :------------- | :------------- |
-| I222    | 2222      |

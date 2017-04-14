@@ -129,6 +129,18 @@
     - [fetchAll返回结果集中所有行的数组](?file=003-后端代码/005-thinkphp5.0/025-fetchAll返回结果集中所有行的数组 "fetchAll返回结果集中所有行的数组")
     - [fetchColumn返回结果集中的下一行](?file=003-后端代码/005-thinkphp5.0/026-fetchColumn返回结果集中的下一行 "fetchColumn返回结果集中的下一行")
     - [fetchObject将下一行作为一个对象](?file=003-后端代码/005-thinkphp5.0/027-fetchObject将下一行作为一个对象 "fetchObject将下一行作为一个对象")
+    - [columnCount返回结果集的列数](?file=003-后端代码/005-thinkphp5.0/028-columnCount返回结果集的列数 "columnCount返回结果集的列数")
+    - [rowCount返回受SQL语句影响的行数](?file=003-后端代码/005-thinkphp5.0/029-rowCount返回受SQL语句影响的行数 "rowCount返回受SQL语句影响的行数")
+    - [nextRowset多行集语句推进到下一个](?file=003-后端代码/005-thinkphp5.0/030-nextRowset多行集语句推进到下一个 "nextRowset多行集语句推进到下一个")
+    - [getColumnMeta返回结果元数据](?file=003-后端代码/005-thinkphp5.0/031-getColumnMeta返回结果元数据 "getColumnMeta返回结果元数据")
+    - [关闭游标](?file=003-后端代码/005-thinkphp5.0/032-关闭游标 "关闭游标")
+    - [errorCode返回错误码](?file=003-后端代码/005-thinkphp5.0/033-errorCode返回错误码 "errorCode返回错误码")
+    - [errorInfo返回错误信息](?file=003-后端代码/005-thinkphp5.0/034-errorInfo返回错误信息 "errorInfo返回错误信息")
+    - [setAttribute设置语句的属性](?file=003-后端代码/005-thinkphp5.0/035-setAttribute设置语句的属性 "setAttribute设置语句的属性")
+    - [getAttribute获取语句的属性](?file=003-后端代码/005-thinkphp5.0/036-getAttribute获取语句的属性 "getAttribute获取语句的属性")
+    - [setFetchMode设置语句模式](?file=003-后端代码/005-thinkphp5.0/037-setFetchMode设置语句模式 "setFetchMode设置语句模式")
+    - [debugDumpParams](?file=003-后端代码/005-thinkphp5.0/038-debugDumpParams "debugDumpParams")
+    - [pnp的字符串的操作](?file=003-后端代码/005-thinkphp5.0/039-pnp的字符串的操作 "pnp的字符串的操作")
 
 ##### 其它
 - **git**
